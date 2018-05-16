@@ -1,5 +1,5 @@
 #! /bin/bash
-# File: installer main file 主文件
+# File: installer file 安装文件
 # Author: yannsun(sunjinliang1992@gmail.com)
 # Date: 2018-05-16
 
